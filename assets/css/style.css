@@ -141,7 +141,7 @@
   align-items: center;
 }
 
-.nav_logo {
+/* .nav_logo {
   border-radius: 20px;
   width: 50%;
   height: 100%;
@@ -154,7 +154,16 @@
 
   width: auto;
   height: 70%;
+} */
+.nav_logo > h4 {
+  font-family: Sacramento;
+  font-weight: 600;
+  font-size: 30px;
+  color: #000053;
 }
+/* .nav_logo > h4 > span {
+  color: #0072bb;
+} */
 
 #menuToggle {
   display: none;
