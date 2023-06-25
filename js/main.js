@@ -64,13 +64,13 @@ function transform_hamburger() {
 //! ============= resume button ==========
 document.getElementById("resume-button-1").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1ccFpyLy-I9iaCF7wUxZZ_XP4K9WdulEK/view?usp=sharing"
+    "https://drive.google.com/file/d/14-rNmXUXs7Vbf8StCrCo1sAVx0j7sb-X/view?usp=sharing"
   );
 };
 
 document.getElementById("resume-button-2").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1ccFpyLy-I9iaCF7wUxZZ_XP4K9WdulEK/view?usp=sharing"
+    "https://drive.google.com/file/d/14-rNmXUXs7Vbf8StCrCo1sAVx0j7sb-X/view?usp=sharing"
   );
 };
 
